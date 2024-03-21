@@ -9,7 +9,7 @@ Welcome to the Online Shop documentation. This guide provides all the necessary 
 3. [System Requirements](#system-requirements)
 4. [Installation Guide](#installation-guide)
 5. [Launching the Application](#launching-the-application)
-6. [Navigating the Online Shop](#navigating-the-online-shop)
+6. [Navigating the Online Shop](#navigating-the-online-shop)#
 7. [Troubleshooting](#troubleshooting)
 8. [FAQ](#faq)
 9. [Contact Information](#contact-information)
